@@ -1,0 +1,8 @@
+{
+  "name": "Nexus AI Agent Platform",
+  "description": "A high-performance, multi-modal AI agent platform featuring real-time streaming, search grounding, and specialized personas for coding, creative writing, and data analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
